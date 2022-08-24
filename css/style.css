@@ -1,0 +1,8 @@
+.list-group-item {
+    border: transparent !important;
+}
+
+.display-3 {
+    font-family: monospace !important;
+    font-size: 14px !important;
+}
